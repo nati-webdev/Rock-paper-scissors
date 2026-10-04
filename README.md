@@ -1,17 +1,14 @@
 # Rock-paper-scissors
-Rock paper scissors Game
-##Built with 
 
+Rock paper scissors Game built with HTML, CSS and JavaScript.
 
-*HTML
-*CSS
-*JavaScript
+## live demo 
+- You can view the live site here: 
+- 
 
+## Features
+ - Interactive gameplay with eventlistners
+ - Play vs Computer logic
+ - Score tracking and reset
+ - Auto play
 
-##Features
-
-
-*It has Auto Play
-*
-*
-##
