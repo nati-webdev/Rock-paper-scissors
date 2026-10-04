@@ -1,0 +1,54 @@
+body {
+background-color: rgb(25, 25, 25);
+color: white;
+font-family: arial;
+
+}
+.title {
+font-weight: bold;
+font-size: 30px;
+}
+.rock, 
+.paper, .scissors {
+height: 50px;
+}
+.css-button {
+background-color: transparent;
+border: 3px solid white;
+width: 120px;
+height: 120px;
+border-radius: 50%;
+margin-right: 10px;
+cursor: pointer;
+}
+.css-result {
+font-size: 25px;
+font-weight: bold;
+margin-top: 50px;
+}
+.css-score{
+margin-top: 60px;
+}
+.reset, .auto-css {
+background-color: white;
+border: none;
+font-size: 15px;
+padding: 8px 15px;
+cursor: pointer;
+}
+.css-agree{
+background-color: rgba(128, 128, 128, 0.127);
+color: white;
+margin-top: 10px;
+font-size: 12px;
+align-items: center;
+
+}
+.yes-button{
+color: black;
+background-color: white;
+border: solid;
+border: none;
+padding: 7px;
+cursor: pointer;
+}
